@@ -144,38 +144,11 @@ Fraud-Detection-System-AI/
 ├── requirements.txt
 ├── README.md
 │
-├── images/
-│   ├── app_ui.png
-│   ├── fraud_prediction.png
-│   └── shap_summary.png
+├── app_ui.png
+├── fraud_prediction.png  
+├── shap_summary.png 
+ 
 ```
-
----
-
-# ▶️ How to Run Locally
-
-## Clone Repository
-
-```bash
-git clone https://github.com/your-username/Fraud-Detection-System-AI.git
-```
-
----
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Run Streamlit App
-
-```bash
-streamlit run app.py
-```
-
 ---
 
 # 📊 Dataset
