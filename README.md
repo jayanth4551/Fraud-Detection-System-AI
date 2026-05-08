@@ -86,7 +86,6 @@ Used SHAP to identify important features contributing to fraud detection.
 * Manual transaction input
 * Fraud probability prediction
 * Risk level classification
-* Real fraud example loader
 * Interactive UI
 
 ---
