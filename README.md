@@ -95,19 +95,19 @@ Used SHAP to identify important features contributing to fraud detection.
 
 ## 🔹 Application Interface
 
-![App UI](images/app_ui.png)
+![App UI](app_ui.png)
 
 ---
 
 ## 🔹 Fraud Prediction Output
 
-![Prediction](images/fraud_prediction.png)
+![Prediction](fraud_prediction.png)
 
 ---
 
 ## 🔹 SHAP Explainability
 
-![SHAP](images/shap_summary.png)
+![SHAP](shap_summary.png)
 
 ---
 
